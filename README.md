@@ -8,5 +8,4 @@
 Code from Jinling High School students.
 
 Please support Jinling High School meow.
-支持金陵中学 支持金陵陈界山 支持金陵尹兴旺
-喵
+
